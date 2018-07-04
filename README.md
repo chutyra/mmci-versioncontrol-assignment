@@ -1,6 +1,7 @@
 # mmci-versioncontrol-assignment
 Team 6 Repo on Github
 ription
+
 Description of Use Case 
 
 Why is it a good use case for version control?
