@@ -3,7 +3,7 @@ Team 6 Repo on Github
 
 Description of Use Case
 
-DevOps is an engineering movement or practice that ties together the development and operations of software – two previously exclusive fields. As a result, IT and software professionals are able to shorten development cycles, deploy software more efficiently, and overall streamline software releases and infrastructure changes. The process of creating software is more cohesive and automatic as a result of the collaboration of all team members. 
+DevOps is an engineering movement or practice that ties together the development and operations of software – two previously exclusive fields. As a result, professionals from various industries, including IT and software, are able to shorten development cycles, deploy software more efficiently, and overall streamline software releases and infrastructure changes. The process of creating software is more cohesive and automatic as a result of the collaboration of all team members. This cohesion is further supported by the ability of all members to log comments, track changes, and monitor progress throughout software development and testing. 
 
 Why is it a good use case for version control?
 
